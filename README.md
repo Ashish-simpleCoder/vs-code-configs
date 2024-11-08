@@ -7,3 +7,11 @@ My custom profile collection for vs-code.
 
 - just import any of the profiles in vscode through profile settings.
 - I will update these settings in future with more optimization.
+
+
+## Snippets
+
+Paste all of the content present in snippets folder to your vscode snippet conguration.
+
+- Global snippet
+- ReactTypescript snippet
